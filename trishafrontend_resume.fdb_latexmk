@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1745436814.81899 "/home/trisha/Desktop/All Files/frontend_resume/trishafrontend_resume.tex" "trishafrontend_resume.pdf" "trishafrontend_resume" 1745436815.33041 0
-  "/home/trisha/Desktop/All Files/frontend_resume/trishafrontend_resume.tex" 1745436814.61312 13372 d1c6141981f4cc10d0c2bdb8f9839a37 ""
+["pdflatex"] 1745436988.85616 "/home/trisha/Desktop/All Files/frontend_resume/trishafrontend_resume.tex" "trishafrontend_resume.pdf" "trishafrontend_resume" 1745436989.3382 0
+  "/home/trisha/Desktop/All Files/frontend_resume/trishafrontend_resume.tex" 1745436988.64404 13363 0a9b48b359233b329422fcadf8443bcf ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1714953600 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1202520719 2840 216e6e45ad352e2456e1149f28885bee ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -108,8 +108,8 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1714953600 40900 887e0dc8cac988a9e9c574af364cf837 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1715884766.90601 4602016 72a039a3c4aea0fa25b5d35d65138f54 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1742928717 7753324 36f94290effb28c71c5f0e5123391293 ""
-  "trishafrontend_resume.aux" 1745436815.26311 2235 3f2b0ed0e50c6f724b3c47818acedc02 "pdflatex"
-  "trishafrontend_resume.tex" 1745436814.61312 13372 d1c6141981f4cc10d0c2bdb8f9839a37 ""
+  "trishafrontend_resume.aux" 1745436989.28415 2235 3f2b0ed0e50c6f724b3c47818acedc02 "pdflatex"
+  "trishafrontend_resume.tex" 1745436988.64404 13363 0a9b48b359233b329422fcadf8443bcf ""
   (generated)
   "trishafrontend_resume.aux"
   "trishafrontend_resume.log"
